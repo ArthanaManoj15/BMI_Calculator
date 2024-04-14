@@ -1,0 +1,35 @@
+body{
+  overflow-x: hidden;
+  /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(38, 36, 36)); */
+}
+#heading{
+  color: orange;
+  text-shadow: 2px 2px black;
+}
+.box{
+  box-shadow: 2px 2px 2px 2px grey;
+}
+#final{
+  font-size: 42px;
+  font-weight: bolder;
+
+}
+.normal {
+  background-color: #8BC507; 
+  color: white;
+}
+
+.underweight {
+  background-color: #F5BB00;
+  color: white;
+}
+
+.overweight {
+  background-color:#F18300; 
+  color: white;
+}
+
+.obese {
+  background-color: #E7221A;
+  color: white;
+}
